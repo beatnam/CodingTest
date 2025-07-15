@@ -23,7 +23,7 @@ public class SearchPoint {
 		} else {
 			x4 = x[1];
 		}
-		
+
 		if (y[0] == y[1]) {
 			y4 = y[2];
 		} else if (y[1] == y[2]) {
